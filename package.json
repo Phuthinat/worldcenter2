@@ -1,0 +1,15 @@
+{
+  "name": "worldcenter2",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "เว็บพนันออนไลน์ เว็บตรงไม่ผ่านเอเย่นต์ ufaworlds ไม่มีขั้นต่ํา",
+  "keywords": [
+    "สมัครสมาชิก ufaworlds เว็บตรงไม่ผ่านเอเย่นต์ รับ เครดิตฟรี 2022",
+    "เว็บตรงไม่ผ่านเอเย่นต์ โปรโมชั่น เครดิตฟรี 100 บาท เมื่อสมัครสมาชิก ufaworlds"
+  ],
+  "repository": "https://github.com/Phuthinat/worldcenter2",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
